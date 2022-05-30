@@ -10,20 +10,16 @@ body{
     background-color: hsl(218, 22%, 67%);
     display: flex;
     justify-content: center;
-     align-content: center;
-      height: 100vh;
-      margin-top: 30%;
-      font-family: karla;
+    align-items: center;
+    font-family: karla;
 }
 .container{
-    height: 100vh;
     border-radius: 5px;
-    
 }
+
 .top{
     background-color: #fff;
     height: 7rem;
-    width: 30rem;
     padding: 12px;
     border: 2px solid #fff;
    
@@ -43,12 +39,9 @@ body{
     width: 16rem;
     background-color: hsl(178, 79%, 42%);
     display: inline-block;
-    margin-left: -4px;
-    
-
-
-
 }
+
+
 .text{
     color:hsl(179, 62%, 43%) ;
     font-weight: 600;
@@ -92,7 +85,7 @@ body{
 }
 .four{
     color: hsl(204, 43%, 93%);
-        font-size: 12px;
+    font-size: 12px;
     margin-top: 16px;
 
 }
